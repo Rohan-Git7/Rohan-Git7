@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-Git7
-- 👀 I’m interested in developing android applications and data structures and algorithms
-- 🌱 I’m currently learning react native
+- 👀 I’m interested in developing android applications and solving data structures and algorithms problems
+- 🌱 I’m currently learning react native and firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
